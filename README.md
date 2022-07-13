@@ -1,2 +1,2 @@
 # proba
-iec tanfolyam git alapok
+IEC tanfolyam git alapok
